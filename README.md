@@ -1,6 +1,6 @@
 # Instalura
 
-Um parágrafo simples dando uma descrição sobre o projeto 
+Reprodução do Instagram.
 
 ## Começando
 
